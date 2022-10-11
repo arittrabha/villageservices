@@ -1,0 +1,418 @@
+.d-block_w-100{
+  height: 500px;
+  width: 1500px;
+  padding-left: 100px;
+
+  padding-right: 80px;
+
+}
+
+
+body{
+  background-color: #F5EFE6;
+}
+
+.services{
+  position: relative;
+  bottom: 50px;
+  left: 50px;
+}
+
+.logo{
+  padding-top: 5px;
+}
+
+
+.img{
+  height: 45px;
+  width: auto;
+  position: absolute;
+  padding-left: 5px;
+
+
+}
+
+h2{
+  padding-left: 60px;
+  font-size: 36px;
+}
+
+
+h1{
+  text-align: center;
+  padding-top: 50px;
+
+}
+
+
+.notice{
+  background-color: #696969;
+  height: 30px;
+  text-align: center;
+
+}
+
+.thanks{
+  color: white;
+}
+
+
+.Aadhar{
+  padding: 80px 10px 10px 50px;
+
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.Pancard{
+  padding: 80px 10px 10px 10px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+.Votar{
+  padding: 80px 10px 10px 10px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+
+.Courier_Tracking{
+  padding: 80px 10px 10px 10px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+
+.Booking_Tickets{
+  padding: 80px 10px 10px 10px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+
+.PM_Awas_Yojana{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+.E-District_Sewa{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+
+.Court_Case_Status{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+
+
+
+
+.NCERT{
+
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+.fir_status{
+
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+.complaint{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+
+}
+
+.scholarship{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+
+.exams{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+
+.dl{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.Vehicle{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.exams{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.Govt._Exams{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.Govt._Hospital_Appointment{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.Sarkari_Result{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+
+.eNPS{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.amit{
+  padding: 80px 10px 10px 30px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+
+.arit{
+  padding: 80px 10px 10px 50px;
+  position: relative;
+  top: 50px;
+  display: inline-block;
+}
+
+.team{
+  position: relative;
+  bottom: 50px;
+  padding-left: 500px;
+  padding-right: 300px;
+}
+
+
+footer{
+  padding: 100px;
+  position: relative;
+  top:100px;
+  left: 550px;
+}
+
+.about_content{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+
+
+.footer{
+
+  background-color:#181818;
+  background-position: bottom;
+  width: 100%;
+  padding-left: 680px;
+  padding-top: 30px;
+}
+
+h2{
+  padding-bottom: 30px;
+  color: white;
+}
+
+.bottom-container{
+
+
+  background-color:#181818;
+  background-position: bottom;
+  width: 100%;
+  padding-left: 670px;
+  padding-top: 40px;
+
+}
+
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+
+
+
+.footer-link-1 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 4px 4px 4px 4px;
+  text-decoration: none;
+}
+
+.footer-link-1:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.footer-link-2 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 4px 4px 4px 4px;
+  text-decoration: none;
+}
+
+.footer-link-2:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.footer-link-3 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 4px 4px 4px 4px;
+  text-decoration: none;
+}
+
+.footer-link-3:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.copy{
+  padding-top: 40px;
+  color: white;
+}
+
+
+
+.about_body{
+  text-align: center;
+  padding: 70px;
+
+}
+
+
+.myimg{
+  padding-top: 50px;
+  padding-left: 450px;
+  padding-bottom: 50px;
+}
